@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyVimWiki</string>
+    <string name="index">Index</string>
+    <string name="edit">Edit</string>
+    <string name="view">View</string>
+    <string name="cut">Cut</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="save">Save</string>
+    <string name="preview">Preview</string>
+    <string name="text_here">Enter your text here</string>
+</resources>
